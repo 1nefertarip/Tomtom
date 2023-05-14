@@ -1,0 +1,467 @@
+,name,lat,lon,connectorTypes,chargingAvailability
+0,Fastned 's-Heer Arendskerke,51.48428,3.85103,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010070455
+1,PARKnCHARGE Terneuzen Kennedylaan,51.33369,3.82499,"['IEC62196Type2CCS', 'Chademo']",528009010056119
+2,Allego Burgh-Haamstede Daleboutsweg,51.68585,3.72814,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009095094
+3,AVIA Rilland De Poort,51.42273,4.19137,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010072403
+4,Kruiningen Weihoek,51.46201,4.03109,['IEC62196Type2CCS'],
+5,Tesla Middelburg Paukenweg,51.48027,3.63649,"['IEC62196Type2CCS', 'Tesla']",
+6,'s-Heer Arendskerke Rijksweg,51.48495,3.84876,"['IEC62196Type2CCS', 'Chademo']",
+7,Allego Middelburg Paukenweg,51.48009,3.63681,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009073612
+8,Shell Recharge Goes Amundsenweg,51.48651,3.8747,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",528009010112505
+9,Ecotap Goes Hudsonweg,51.48313,3.89476,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",
+10,PARKnCHARGE Terneuzen Guido Gezellestraat,51.30589,3.85508,"['IEC62196Type2CCS', 'Chademo']",528009010055557
+11,Tholen Schietbaan,51.53648,4.22546,"['IEC62196Type2CCS', 'Chademo']",
+12,Fastned 's-Heer Arendskerke Rijksweg,51.49877,3.77214,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009009083633
+13,Ecotap Den Bommel Langeweg,51.69807,4.29308,"['IEC62196Type2CCS', 'Chademo']",528009010056078
+14,InCharge Middelburg Bosschaartsweg,51.48276,3.62497,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010043239
+15,Krabbendijke Vliete,51.42281,4.09665,['IEC62196Type2CCS'],528009010104154
+16,Shell Recharge Nieuw- en Sint Joosland Rijksweg A58,51.49654,3.67779,"['IEC62196Type2CCS', 'Chademo']",
+17,PARKnCHARGE Yerseke Kreeft,51.48126,4.0519,"['IEC62196Type2CCS', 'Chademo']",528009010057386
+18,Ecotap Zierikzee Ruigendijkweg,51.64137,3.9367,"['IEC62196Type2CCS', 'Chademo']",
+19,PARKnCHARGE Oude-Tonge Tonisseweg,51.70046,4.20306,"['IEC62196Type2CCS', 'Chademo']",528009009101643
+20,'s-Heer Arendskerke Rijksweg,51.49842,3.77217,"['Chademo', 'IEC62196Type2CCS']",528009010064276
+21,TotalEnergies 's-Heer Arendskerke Rijksweg,51.48462,3.84995,"['IEC62196Type2CCS', 'Chademo']",528009010107118
+22,Ecotap Terneuzen Stationsweg,51.33118,3.82674,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+23,E-Flux Hoek van Holland Prins Hendrikweg,51.97178,4.14216,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",528009010103796
+24,Fastned Vierpolders Coosenhoek,51.87058,4.18041,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010104267
+25,Shell Recharge Den Haag Professor B.M. Teldersweg,52.09639,4.28692,"['IEC62196Type2CCS', 'Chademo']",528009010108681
+26,Allego Hellevoetsluis Struytse Hoeck,51.83244,4.14724,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009095235
+27,Shell Recharge Rijswijk Schaapweg,52.04257,4.29397,"['Chademo', 'IEC62196Type2CCS']",528009010111308
+28,Honselersdijk Middel Broekweg,51.99881,4.23006,['IEC62196Type2CCS'],
+29,PARKnCHARGE Spijkenisse Boyleweg,51.85465,4.30306,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009002428653
+30,Naaldwijk Klompenmakerstraat,52.00269,4.21425,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+31,Den Haag Kerketuinenweg,52.05223,4.25624,"['IEC62196Type2CCS', 'Chademo']",
+32,InCharge Den Haag De Werf,52.04334,4.24255,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010104770
+33,ENGIE Naaldwijk Vallumstraat,51.98632,4.2164,['IEC62196Type2Outlet'],528009010072432
+34,Allego Rijswijk Schaapweg,52.04257,4.29397,"['IEC62196Type2CCS', 'Chademo']",
+35,TotalEnergies Den Haag Laan van Meerdervoort,52.06189,4.22741,"['Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",
+36,Europoort Europaweg,51.91362,4.18985,"['IEC62196Type2CCS', 'Chademo']",528009010068457
+37,Fastned Vierpolders Tussenhoek,51.87024,4.18238,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009094555
+38,Fastned Zevenbergschen Hoek Voogdeweg,51.66239,4.67811,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010111862
+39,Tesla Oosterhout Beneluxweg,51.62657,4.86987,"['Tesla', 'IEC62196Type2CCS']",
+40,Shell Recharge Gilze E312,51.55459,4.91284,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010108949
+41,E-Flux Bladel De Vroent,51.32457,5.22485,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010055668
+42,Fastned Dordrecht Rijksweg 16,51.7341,4.63208,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010106710
+43,Fastned Zegge,51.54883,4.52921,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010112033
+44,InCharge Roosendaal Takspui,51.53519,4.48533,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010044927
+45,Shell Recharge Breda Spinveld,51.59946,4.75251,['Chademo'],
+46,PARKnCHARGE Tilburg Goirleseweg,51.54294,5.06693,"['IEC62196Type2Outlet', 'IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009010068285
+47,Fastned Bladel De Vroent,51.32407,5.2229,['Chademo'],
+48,Shell Recharge Sprang-Capelle Maasroute,51.69442,5.00853,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010105759
+49,InCharge Breda Kruisvoort,51.58238,4.73049,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010044283
+50,Fastned Tilburg Jan Heijnsstraat,51.56229,5.07522,"['IEC62196Type2CCS', 'Chademo']",528009010106188
+51,Shell Recharge Numansdorp Rijksweg A29,51.73667,4.41057,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112061
+52,Loon op Zand De Hoogt,51.62798,5.06672,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",
+53,Shell Recharge Tilburg Burgemeester Letschertweg,51.57904,4.97313,['Chademo'],528009010042575
+54,Fastned Rucphen,51.5477,4.53037,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010105588
+55,Fastned Oud Gastel Holstraat,51.59665,4.49547,"['IEC62196Type2CCS', 'Chademo']",528009010068827
+56,PARKnCHARGE Tilburg Dokter Bloemenlaan,51.54446,5.11004,"['IEC62196Type2CCS', 'IEC62196Type2CCS']",
+57,Shell Recharge Sprang-Capelle,51.69413,5.01864,"['IEC62196Type2CCS', 'Chademo']",528009010108332
+58,Tesla Breda Princenhagelaan,51.57652,4.72977,"['Tesla', 'IEC62196Type2CCS']",
+59,Tilburg Kraaivenstraat,51.58537,5.06705,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'Chademo']",
+60,Fastned Breda Hazeldonk,51.50017,4.74086,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010112247
+61,InCharge Tilburg Mina Krusemanweg,51.53774,5.04116,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010046018
+62,Shell Recharge Dordrecht Rijksweg 16,51.73459,4.63258,"['IEC62196Type2CCS', 'Chademo']",528009010104699
+63,Fastned Zevenbergschen Hoek Rijksweg A16,51.69065,4.65759,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CableAttached', 'Chademo']",528009009086385
+64,Allego Oosterhout Beneluxweg,51.62707,4.86822,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009085226
+65,Fastned Hank,51.74684,4.92197,"['Chademo', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010108003
+66,TotalEnergies Breda Minervum,51.58315,4.82575,"['IEC62196Type2CCS', 'Chademo']",
+67,PARKnCHARGE Tilburg Goirkekanaaldijk,51.5777,5.07824,['IEC62196Type2CCS'],528009010074928
+68,Fastned Numansdorp,51.73726,4.41002,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009088773
+69,Fastned Dorst Rijksweg A27,51.6029,4.84106,"['IEC62196Type2CCS', 'Chademo']",528009010067223
+70,Fastned Breda Hazeldonk,51.49786,4.74323,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009085940
+71,IONITY Oosterhout Beneluxweg,51.62704,4.87003,['IEC62196Type2CCS'],528009009107360
+72,Allego Tilburg Burgemeester Letschertweg,51.57956,4.97273,"['IEC62196Type2CCS', 'Chademo']",
+73,E-Flux Rijen Europalaan,51.57811,4.93661,"['IEC62196Type2CCS', 'Chademo']",528009010067430
+74,E-Flux Bergen op Zoom Rijksweg A58,51.50443,4.34862,['IEC62196Type2CCS'],528009010040550
+75,Allego Breda Backer en Ruebweg,51.60232,4.76944,"['IEC62196Type2CCS', 'Chademo']",
+76,E-Flux Zevenbergschen Hoek Rijksweg A16,51.69081,4.65664,"['IEC62196Type2CCS', 'Chademo']",528009010071232
+77,Shell Recharge Breda Hazeldonk,51.49973,4.74197,"['IEC62196Type2CCS', 'Chademo']",528009010107347
+78,Orange Charging Standdaarbuiten Markweg,51.61778,4.51818,"['IEC62196Type2CCS', 'Chademo']",
+79,Shell Recharge Hank E311,51.74429,4.91808,"['IEC62196Type2CCS', 'Chademo']",528009010104373
+80,Tesla Tilburg Dokter Bloemenlaan,51.54318,5.11193,['IEC62196Type2CCS'],
+81,Breda Minervum,51.58315,4.82575,"['IEC62196Type2CCS', 'Chademo']",
+82,PARKnCHARGE Waalwijk Industrieweg,51.70655,5.06125,['IEC62196Type2CCS'],528009010104136
+83,Fastned Den Hout Rijksweg A59,51.67651,4.82724,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010110219
+84,Allego Tilburg Burgemeester Brokxlaan,51.5618,5.07974,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009107800
+85,Shell Recharge Etten-Leur Rijksweg A58,51.57359,4.68431,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112488
+86,Shell Recharge Breda Backer en Ruebweg,51.60232,4.76944,"['Chademo', 'IEC62196Type2CCS']",528009010110049
+87,Shell Recharge Breda E19,51.49747,4.74228,"['IEC62196Type2CCS', 'Chademo']",528009010110250
+88,Fastned Klundert,51.642,4.55653,"['IEC62196Type2CCS', 'Chademo']",528009010056387
+89,Fastned Sprang-Capelle,51.69392,5.01351,"['Chademo', 'IEC62196Type2CCS']",528009010111171
+90,Fastned Oosterhout Rijksweg A27,51.61215,4.85735,"['IEC62196Type2CCS', 'Chademo']",528009010110502
+91,TotalEnergies Drunen Spoorlaan,51.69779,5.16162,"['IEC62196Type2CCS', 'Chademo']",
+92,InCharge Etten-Leur Trivium,51.57235,4.66797,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010109229
+93,InCharge Maarssen Planetenbaan,52.12859,5.03496,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010106256
+94,Tesla Zaltbommel Hogeweg,51.79625,5.25496,"['Tesla', 'IEC62196Type2CCS']",
+95,Fastned Beesd Rijksweg A2,51.91258,5.18067,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010104409
+96,Allego Katwoude Wagenweg,52.48734,5.03295,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009010072535
+97,Haarlem Ingenieur Lelyweg,52.38761,4.65613,"['IEC62196Type2CCS', 'Chademo']",
+98,Allego Sassenheim Warmonderweg,52.21298,4.50358,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+99,ENGIE Rotterdam Zeemansstraat,51.90652,4.47699,"['IEC62196Type2Outlet', 'IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2Outlet', 'StandardHouseholdCountrySpecific', 'StandardHouseholdCountrySpecific', 'IEC62196Type2Outlet']",528009009081465
+100,Barendrecht Middelweg,51.84501,4.51944,"['IEC62196Type2CCS', 'Chademo']",528008000031311
+101,PARKnCHARGE Rijswijk Vrijenbanselaan,52.028,4.35729,"['IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010108797
+102,Gouda Elburgplein,52.02586,4.6752,"['IEC62196Type2Outlet', 'IEC62196Type1CCS', 'IEC62196Type2CCS']",528009010107770
+103,Fastned Haarlem Fustweg,52.38514,4.66166,"['IEC62196Type2CCS', 'Chademo']",528009010108866
+104,IONITY Hendrik-Ido-Ambacht Rijksweg A16,51.836,4.62001,['IEC62196Type2CCS'],528009010047629
+105,E-Flux Alkmaar Smaragdweg,52.60887,4.75626,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",528009009087337
+106,InCharge Warmond Stationslaan,52.21494,4.51446,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010055155
+107,Shell Recharge Nieuwerkerk aan den IJssel E25,51.96759,4.58995,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010107328
+108,Fastned Zoetermeer Rijksweg A12,52.05177,4.43628,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010108937
+109,Fastned Delft Rijksweg A13,51.98344,4.39277,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010109465
+110,Shell Recharge Hendrik-Ido-Ambacht Rijksweg A16,51.83399,4.62049,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010103968
+111,E-Flux Velddriel De Tweede Geerden,51.75748,5.29196,"['IEC62196Type2CCS', 'Chademo']",528009010112444
+112,Allego Beesd Rijksweg A2,51.91159,5.1785,"['Chademo', 'IEC62196Type2CCS']",528009010104975
+113,Shell Recharge Meerkerk E311,51.91079,4.98413,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112837
+114,Fastned Nieuwegein Rijksweg A27,52.01425,5.12227,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010106598
+115,InCharge Barendrecht Van der Waalsweg,51.86963,4.54829,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010056505
+116,Fastned Breukelen,52.14319,5.00033,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010108893
+117,TotalEnergies Papendrecht Burgemeester Keijzerweg,51.84638,4.68112,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",528009010105251
+118,Dordrecht Leeuwstraat,51.78678,4.68513,['IEC62196Type2CCS'],
+119,Allego Dordrecht Laan van Europa,51.77391,4.65219,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009084916
+120,Allego Amsterdam Tijnmuiden,52.39182,4.77916,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+121,InCharge Amsterdam IJdoornlaan,52.41528,4.91166,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010107844
+122,Allego Den Hoorn,52.00888,4.31156,"['IEC62196Type2CCS', 'Chademo']",
+123,Hoofddorp Kruisweg,52.29228,4.71487,['IEC62196Type2CCS'],
+124,Allego Harmelen Veldhuizerweg,52.08188,5.00336,"['IEC62196Type2CCS', 'Chademo']",
+125,Allego Nieuwegein Waterliniedok,52.01137,5.12269,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009095881
+126,InCharge Dordrecht Rijksstraatweg,51.77417,4.64742,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010048455
+127,InCharge Capelle aan den IJssel Hoofdweg,51.95221,4.56547,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010057817
+128,Allego Woerden Europabaan,52.07566,4.90118,['IEC62196Type2CCS'],528009010066350
+129,Shell Recharge Breukelen Rijksweg A2 Oostzijde,52.18367,4.9879,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+130,Fastned Muiden,52.32013,5.07795,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010112288
+131,Fastned Hardinxveld-Giessendam Den Bout,51.83217,4.88124,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010111753
+132,Shell Recharge Den Hoorn,52.00931,4.31126,"['Chademo', 'IEC62196Type2CCS']",528009010106742
+133,Shell Recharge Delft Heertjeslaan,51.98738,4.37994,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CableAttached']",
+134,Allego Krimpen aan den IJssel Raadhuisplein,51.91453,4.58852,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528008000016012
+135,Tesla Ridderkerk Krommeweg,51.8679,4.55775,"['IEC62196Type2CCS', 'Tesla']",
+136,Allego Nieuwegein Rijksweg A27,52.01484,5.11961,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+137,Groot-Ammers Ambachtsweg,51.93392,4.85308,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009010067615
+138,Fastned Noordbeemster Rijksweg A7,52.58139,4.97789,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010071350
+139,Blue Corner Amsterdam Australiëhavenweg,52.38445,4.80314,['IEC62196Type2CableAttached'],528009010051554
+140,Shell Recharge Hoofddorp Rijksweg A4,52.25862,4.68495,"['IEC62196Type2CCS', 'Chademo']",528009010109523
+141,Shell Recharge Alphen aan den Rijn Koperweg,52.14669,4.64845,['Chademo'],
+142,Zaandam Provincialeweg,52.44274,4.81156,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+143,OG Gouda Industriestraat,52.01133,4.6926,"['IEC62196Type2CCS', 'Chademo']",
+144,InCharge Gouda Nieuwe Gouwe Oostzijde,52.01882,4.68298,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010066655
+145,Shell Recharge Bruchem Rijksweg A2,51.77667,5.25806,"['Chademo', 'IEC62196Type2CCS']",528009010105918
+146,Tesla Hoogblokland Energieweg,51.89952,4.98297,['IEC62196Type2CCS'],
+147,Fastned Nieuwerkerk aan den IJssel Rijksweg A20,51.96791,4.58903,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CableAttached', 'Chademo']",528009010106890
+148,Fastned Harmelen Bijleveld,52.07941,4.98098,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010109671
+149,Allego Eemnes Rijksweg,52.2358,5.23033,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009002415141
+150,Allego Leiderdorp Rijksweg A4,52.16247,4.55533,"['IEC62196Type2CCS', 'Chademo']",
+151,Allego Amstelveen Asserring,52.28183,4.82771,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528008000012596
+152,InCharge Gorinchem Franklinweg,51.84116,5.00506,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010107142
+153,Fastned Eemnes Rijksweg A27,52.26434,5.25598,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009072917
+154,Allego Hoorn Westfriese Parkweg,52.65127,5.0387,['IEC62196Type2CCS'],528009010072472
+155,Fastned Delfgauw Rijksstraatweg,51.9844,4.39483,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010103780
+156,Krimpen aan den IJssel Nieuwe Tiendweg,51.92012,4.60447,['IEC62196Type2CCS'],
+157,InCharge Hillegom Arnoudstraat,52.27562,4.57351,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010055282
+158,InCharge Hilversum Vreelandseweg,52.22074,5.1445,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010070235
+159,Aalsmeer Aalsmeerderweg,52.28947,4.82184,"['IEC62196Type2CCS', 'Chademo']",
+160,IONITY Hendrik-Ido-Ambacht Rijksweg A16,51.83483,4.61808,['IEC62196Type2CCS'],528009009082315
+161,TotalEnergies Houten De Staart,52.02499,5.14037,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009073507
+162,TotalEnergies Rotterdam Melanchtonweg,51.94924,4.46116,"['IEC62196Type2CCS', 'Chademo']",528009010056697
+163,PARKnCHARGE Amsterdam Deccaweg,52.40247,4.84162,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",
+164,Allego Amstelveen Patrimoniumlaan,52.31022,4.84711,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009073381
+165,Shell Recharge Oude Meer Fokkerweg,52.28688,4.78259,"['Chademo', 'IEC62196Type2CCS']",528009010110910
+166,TotalEnergies Harmelen Rijksweg A12,52.07999,4.98024,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+167,Allego Bunnik Kosterijland,52.06095,5.20549,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009002567840
+168,TotalEnergies Den Haag Jan Pietersz. Coenstraat,52.07959,4.33427,"['Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",528009010069869
+169,TotalEnergies Amsterdam Stadionplein,52.34263,4.85679,"['Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",
+170,Shell Recharge Alblasserdam Rijksweg A15,51.84992,4.68022,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010109139
+171,PARKnCHARGE Rotterdam Corkstraat,51.94398,4.41062,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009009091731
+172,Fastned Oegstgeest Rijksweg A44,52.19815,4.47163,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010108828
+173,Amsterdam Klokkenbergweg,52.30177,4.93788,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+174,Tesla Schiedam Hargalaan,51.92481,4.37226,"['IEC62196Type2CCS', 'Tesla']",
+175,Fastned Heemskerk Twaalfmaat,52.50064,4.70298,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010105758
+176,Allego Gouda De Andel,52.03932,4.70527,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+177,Allego Meerkerk Energieweg,51.89982,4.98276,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",
+178,Shell Recharge Utrecht Ruimteweg,52.12356,5.03985,"['Chademo', 'IEC62196Type2CCS']",528009010107880
+179,Allego Schiphol Loevesteinse Randweg,52.32125,4.79265,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009075853
+180,Fastned Rhoon,51.86265,4.45986,"['IEC62196Type2CCS', 'Chademo']",528009010104866
+181,Fastned Den Hoorn,52.00925,4.31211,"['IEC62196Type2CCS', 'Chademo']",528009010107006
+182,Shell Recharge Amsterdam Van Slingelandtstraat,52.38395,4.86476,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112134
+183,Tesla Bunnik Baan van Fectio,52.06103,5.20514,"['Tesla', 'IEC62196Type2CCS']",
+184,InCharge IJsselstein Lorentzlaan,52.01494,5.06268,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",
+185,Tesla Sassenheim Warmonderweg,52.21326,4.50342,['IEC62196Type2CCS'],
+186,InCharge Schagen Grotewallerweg,52.78234,4.80903,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010041770
+187,Shell Recharge Wieringerwerf Hoge Kwel,52.85654,5.02123,"['IEC62196Type2CCS', 'Chademo']",528009010106132
+188,Fastned Wieringerwerf Hoge Kwel,52.85719,5.02148,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",
+189,Allego De Koog Pelikaanweg,53.08175,4.76146,"['IEC62196Type2CCS', 'Chademo']",528009010110059
+190,AVIA Julianadorp Strandslag,52.89689,4.72016,['IEC62196Type2CableAttached'],
+191,PARKnCHARGE Milheeze Milheesestraat,51.50434,5.78799,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",528009010065071
+192,Shell Recharge Heerlen A76,50.8233,6.01969,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010108360
+193,PARKnCHARGE Helmond Heibloemweg,51.44967,5.70869,"['IEC62196Type2CCS', 'Chademo']",528009009105250
+194,InCharge Uden Voskestraat,51.67113,5.60077,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010043415
+195,Fastned Haps A73 Rijksweg,51.68426,5.89089,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110893
+196,Fastned Eindhoven Limburglaan,51.43422,5.45061,"['IEC62196Type2CCS', 'Chademo']",528009009096441
+197,Shell Recharge 's-Hertogenbosch Gestelseweg,51.67888,5.3269,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS']",528009010111509
+198,IONITY Best Eindhovenseweg-Zuid,51.50305,5.41436,['IEC62196Type2CCS'],528009010046617
+199,AVIA Eindhoven Eisenhowerlaan,51.45469,5.5223,['IEC62196Type2CCS'],528009010107736
+200,Fastned Geffen Rijksweg,51.73451,5.49272,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010110907
+201,PARKnCHARGE Best N.C.B.-Weg,51.50143,5.41622,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009075282
+202,InCharge Venlo Weselseweg,51.38098,6.18911,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010049417
+203,InCharge Gronsveld Burgemeester Frans Cortenraadstraat,50.81235,5.72145,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010049107
+204,Allego Oirlo,51.50631,6.02182,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",
+205,Landgraaf Euregioweg,50.8713,6.01622,['IEC62196Type2CCS'],
+206,PARKnCHARGE Someren Boerenkamplaan,51.37397,5.72439,"['IEC62196Type2CCS', 'Chademo']",528009010044975
+207,Allego Eindhoven Stationsplein,51.44201,5.48033,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009072160
+208,Son en Breugel Ekkersrijt,51.50384,5.47127,['IEC62196Type2CCS'],
+209,Shell Recharge Heesch Bosschebaan,51.72869,5.47567,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010111967
+210,E-Flux Deurne Helmondseweg,51.46029,5.7722,"['Chademo', 'IEC62196Type2CCS']",528009010109913
+211,TotalEnergies Meerssen Rijksweg A2,50.88643,5.7396,"['IEC62196Type2CCS', 'Chademo']",
+212,Orange Charging Eindhoven Meerenakkerplein,51.42734,5.44038,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",
+213,E-Flux Venray Leunseweg,51.51794,5.9799,['IEC62196Type2CCS'],528009010105676
+214,Fastned Asten Rijksweg A67,51.40441,5.81096,"['IEC62196Type2CCS', 'Chademo']",528009009103312
+215,Tesla Uden Rondweg,51.67131,5.60267,['IEC62196Type2CCS'],
+216,PARKnCHARGE Veldhoven Habraken,51.43409,5.36164,"['Chademo', 'IEC62196Type2CCS']",528009010057842
+217,PARKnCHARGE Eindhoven Sint Bonifaciuslaan,51.42436,5.50589,['IEC62196Type2CCS'],
+218,Tesla Eindhoven Aalsterweg,51.40693,5.47935,['Tesla'],
+219,Allego Oirlo Venloseweg,51.50413,6.0214,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009087107
+220,InCharge Kerkrade Euregiopark,50.86343,6.01405,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010046046
+221,Kia Helmond Varenschut,51.45671,5.69279,"['Chademo', 'IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",
+222,Tesla Maastricht Slakweg,50.81651,5.72565,['Tesla'],
+223,InCharge Rosmalen Burgemeester Burgerslaan,51.71928,5.33553,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010045122
+224,Fastned Haps A73 Rijksweg,51.68352,5.89368,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010108912
+225,Fastned Liempde Rijksweg,51.55637,5.36191,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010109630
+226,Fastned Son en Breugel Rijksweg A50,51.53534,5.4788,"['IEC62196Type2CCS', 'Chademo']",528009010055744
+227,E-Flux Geleen Industrieweg,50.9814,5.82655,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010111403
+228,Fastned Maarheeze Rijksweg A2,51.3221,5.59335,"['IEC62196Type2CCS', 'Chademo']",528009010104054
+229,Shell Recharge Geleen Rijksweg A2,51.01052,5.79915,"['Chademo', 'IEC62196Type2CCS']",528009010104635
+230,Fastned Maarheeze Rijksweg A2,51.32531,5.59222,"['IEC62196Type2CCS', 'Chademo']",528009010107484
+231,Shell Recharge Eindhoven Floraplein,51.41554,5.49741,"['Chademo', 'IEC62196Type2CCS']",528009010110333
+232,InCharge Beugen Provincialeweg,51.66573,5.94387,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010057340
+233,InCharge Heesch Cereslaan,51.73566,5.51032,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010050175
+234,Allego Venlo Nijmeegseweg,51.39537,6.17455,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009008553631
+235,Fastned Eijsden,50.77688,5.72977,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009009078878
+236,Allego Uden Rondweg,51.67109,5.60245,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009009107010
+237,TotalEnergies Veghel Poort van Veghel,51.59953,5.51673,"['IEC62196Type2CCS', 'Chademo']",528009010109000
+238,Shell Recharge Venlo Krefeldseweg,51.37195,6.17842,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010108040
+239,Loosbroek Donatusstraat,51.67957,5.50847,['Chademo'],
+240,InCharge Echt Zuiderpoort,51.10397,5.86271,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010056519
+241,Allego Rosmalen Molenhoekpassage,51.71043,5.36629,['IEC62196Type2CCS'],528009010072729
+242,Venlo Floralaan,51.40042,6.13157,"['IEC62196Type2Outlet', 'IEC62196Type1CCS', 'IEC62196Type2CCS']",
+243,IONITY Sevenum Kleefsedijk,51.38006,5.9856,['IEC62196Type2CCS'],528009009077771
+244,Fastned Liempde Rijksweg,51.55914,5.3568,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'Chademo', 'Chademo', 'IEC62196Type2CCS']",528009009078901
+245,Shell Recharge Eindhoven John F. Kennedylaan,51.47693,5.48829,"['Chademo', 'IEC62196Type2CCS']",528009010103824
+246,Beringe Haambergweg,51.3183,5.91019,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached']",
+247,Blue Corner Eindhoven Karel de Grotelaan,51.43345,5.4661,['Chademo'],
+248,Fastned Oirschot Rijksweg A58,51.49173,5.35046,"['IEC62196Type2CCS', 'Chademo']",528009010069431
+249,Shell Recharge Haps A73 Rijksweg,51.68323,5.89302,"['IEC62196Type2CCS', 'Chademo']",528009010110491
+250,Fastned Schaijk Dassenbaan,51.74656,5.59917,"['IEC62196Type2CCS', 'Chademo']",528009010111646
+251,Haps Klopsteen,51.6892,5.87924,"['IEC62196Type2CCS', 'Chademo']",528009010051452
+252,Tesla Horst Tienrayseweg,51.47008,6.05708,"['Tesla', 'IEC62196Type2CCS']",
+253,Allego Urmond Mauritslaan,50.98806,5.78099,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528008000012804
+254,Fastned Geleen Swentiboldweg,51.01049,5.8005,"['IEC62196Type2CCS', 'Chademo', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010071428
+255,Allego 's-Hertogenbosch Gestelseweg,51.67867,5.32693,"['IEC62196Type2CCS', 'Chademo']",
+256,Fastned Eijsden Rijksweg,50.78603,5.72781,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009009096225
+257,Allego Weert Rijksweg A2,51.25465,5.76515,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+258,Porsche Maastricht-Airport Afrikalaan,50.9312,5.78396,['IEC62196Type2CCS'],
+259,InCharge Landgraaf Brunssummerweg,50.9173,6.02264,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010040359
+260,Allego Eindhoven Leenderfietspad,51.41553,5.49737,"['IEC62196Type2CCS', 'Chademo']",
+261,Porsche Maastricht-Airport Afrikalaan,50.931,5.7835,['IEC62196Type2CCS'],
+262,Allego Weert Rijksweg A2,51.25512,5.76669,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",
+263,InCharge Heerlen Breukerweg,50.9046,5.9439,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010048399
+264,Allego Eindhoven Noord Brabantlaan,51.43621,5.42311,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009078050
+265,Fastned Ell Rijksweg A2,51.22078,5.80891,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010112591
+266,InCharge Nederweert Randweg West,51.27758,5.73956,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010065903
+267,Fastned Schaijk,51.7456,5.60249,"['IEC62196Type2CCS', 'Chademo']",528009010107828
+268,Allego Heerlen Terworm,50.89202,5.95536,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",
+269,Maastricht Molensingel,50.82955,5.71276,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",
+270,Shell Recharge Oirschot Rijksweg A58,51.4922,5.34928,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112848
+271,Maxem Energy Solutions Beringe Haambergweg,51.31902,5.90978,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009010109240
+272,TotalEnergies Eindhoven Jeroen Boschlaan,51.44025,5.50481,"['IEC62196Type2CCS', 'Chademo']",
+273,Allego Eindhoven John F. Kennedylaan,51.47693,5.48829,"['IEC62196Type2CCS', 'Chademo']",
+274,Shell Recharge Ell E25,51.22023,5.80957,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010104959
+275,InCharge Maastricht Stadionplein,50.85645,5.71781,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010105580
+276,AVIA Rosmalen Kloosterstraat,51.70057,5.36258,['IEC62196Type2CCS'],
+277,Allego Sevenum Kleefsedijk,51.37979,5.98482,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009086102
+278,Allego Urmond Mauritslaan,50.98832,5.779,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009009084983
+279,Haps Kokerbijl,51.69375,5.87164,['Chademo'],
+280,EVBox Eersel Sigarenmaker,51.36786,5.31594,"['IEC62196Type2Outlet', 'IEC62196Type2Outlet', 'IEC62196Type2Outlet']",528009010065809
+281,ThePluginCompany Maastricht Wim Duisenbergplantsoen,50.8415,5.70419,"['IEC62196Type2CableAttached', 'IEC62196Type2CableAttached', 'IEC62196Type2CableAttached']",
+282,PARKnCHARGE Geffen Rijksweg,51.73447,5.49317,"['IEC62196Type2CCS', 'Chademo']",528009010074332
+283,Fastned Geldrop Rijksweg E3,51.4039,5.53795,"['IEC62196Type2CCS', 'Chademo']",528009010056662
+284,Harderwijk Boekhorstlaan,52.33573,5.64309,"['IEC62196Type2CCS', 'Chademo']",528009010065691
+285,Allego Amersfoort Boerderijenboulevard,52.18224,5.43423,"['IEC62196Type2CCS', 'Chademo']",
+286,InCharge Harderwijk Knardijk West,52.35386,5.63045,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010110904
+287,TotalEnergies Leersum Rijksweg A12,52.05075,5.46641,"['IEC62196Type2CCS', 'Chademo']",528009010076272
+288,Allego Stroe Heideweg,52.18571,5.67504,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009085685
+289,Allego Veenendaal Bastion,52.04186,5.56784,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010043622
+290,Shell Recharge Apeldoorn Lange Amerikaweg,52.17938,5.98556,['Chademo'],
+291,Nijmegen Tarweweg,51.81678,5.82509,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'Chademo']",
+292,Fastned Wilp Rijksweg A1 De Paal,52.20906,6.09274,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009077886
+293,Allego Ede Parkweide,52.05126,5.64473,['IEC62196Type2CCS'],528009010066439
+294,Fastned Stroe Rijksweg A1,52.1845,5.67094,"['IEC62196Type2CCS', 'Chademo']",528009010112902
+295,Fastned Staphorst Rijksweg,52.62455,6.20805,"['IEC62196Type2CCS', 'Chademo']",528009010109678
+296,TotalEnergies Terschuur Rijksweg A1,52.16318,5.53402,"['IEC62196Type2CCS', 'Chademo']",528009010057627
+297,E-Flux Arnhem,51.98513,5.91875,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010047535
+298,Allego Arnhem Amsterdamseweg,52.01424,5.81964,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009079540
+299,Porsche Leusden Zuiderinslag,52.1232,5.41729,['IEC62196Type2CCS'],
+300,Tesla Apeldoorn Landgoedlaan,52.20472,6.01618,['IEC62196Type2CCS'],
+301,Fastned Nagele Rijksweg A6,52.66085,5.68918,"['IEC62196Type2CCS', 'Chademo']",528009010055861
+302,InCharge Amersfoort Wiekenweg,52.16293,5.42356,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010043750
+303,Fastned Ugchelen Rijksweg A1,52.18576,5.89082,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CableAttached', 'Chademo']",528009010111087
+304,InCharge Terschuur Zelderseweg,52.16904,5.56494,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010044785
+305,Zwolle Oude Meppelerweg,52.52448,6.11888,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",
+306,InCharge Kampen Zambonistraat,52.55736,5.88462,"['Chademo', 'IEC62196Type2Outlet']",528009010042976
+307,InCharge Zwolle Floresstraat,52.52266,6.11633,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010111882
+308,Shell Recharge Amersfoort Boerderijenboulevard,52.18224,5.43424,"['Chademo', 'IEC62196Type2CCS']",528009010105912
+309,Fastned Woudenberg Rijksweg A12,52.05115,5.46405,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110563
+310,Allego Putten Strandboulevard,52.26821,5.53317,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009082512
+311,OG Bunschoten-Spakenburg De Kronkels,52.23386,5.36699,"['IEC62196Type2CCS', 'Chademo']",
+312,Fastned Opheusden Rijksweg A15,51.92395,5.60518,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010106627
+313,Shell Recharge Nijmegen Neerbosscheweg,51.82647,5.82631,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110005
+314,Allego Staphorst Staphorst Rijksweg A28,52.62391,6.20766,"['IEC62196Type2CCS', 'Chademo']",
+315,PARKnCHARGE Lunteren Immenweg,52.08746,5.66943,"['IEC62196Type2Outlet', 'IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009009073067
+316,InCharge Heteren Polderstraat,51.94457,5.75642,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010040770
+317,InCharge Meppel Blankenstein,52.69485,6.20504,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010042632
+318,Fastned Hulshorst,52.36311,5.76785,"['IEC62196Type2CCS', 'Chademo']",528009010104640
+319,Shell Recharge Klarenbeek Rijksweg A50,52.16601,6.02506,"['Chademo', 'IEC62196Type2CCS']",528009010110531
+320,Fastned Lelystad RW A6 de Lepelaar,52.43269,5.42277,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009009093137
+321,InCharge Nijkerk Smitspol,52.24011,5.48247,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010044969
+322,Fastned Harderwijk Rijksweg A28,52.33172,5.59124,"['IEC62196Type2CCS', 'Chademo']",528009010070730
+323,Fastned Arnhem Batavierenweg,51.96473,5.8924,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010108015
+324,InCharge Arnhem Batavierenweg,51.9646,5.89108,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010048451
+325,Doetinchem Innovatieweg,51.94417,6.27835,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+326,InCharge Harderwijk Knardijk West,52.35417,5.63039,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+327,Porsche Heteren Ressenerbroek,51.942,5.76425,['IEC62196Type2CCS'],
+328,Tesla Zevenaar Doesburgseweg,51.94073,6.08179,"['Tesla', 'IEC62196Type2CCS']",
+329,InCharge Deventer Piet van Donkplein,52.24975,6.20454,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010040549
+330,Tesla Deventer Birnieweg,52.2334,6.21026,"['IEC62196Type2CCS', 'Tesla']",
+331,Fastned Heerde Rijksweg A50,52.39598,6.01331,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528008000014377
+332,InCharge Beuningen Hadrianussingel,51.85622,5.75156,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010108738
+333,Amersfoort Urselapolder,52.19328,5.43051,['IEC62196Type2CCS'],528009010067806
+334,Allego Tiel Laan van Westroijen,51.89955,5.43695,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010070013
+335,Shell Recharge Radio Kootwijk Rijksweg A1,52.19567,5.83507,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110168
+336,Elst Brugwachter,51.91806,5.86256,['IEC62196Type2CableAttached'],
+337,Allego Klarenbeek Rijksweg A50,52.16601,6.02506,"['IEC62196Type2CCS', 'Chademo']",
+338,PARKnCHARGE Zutphen Industrieweg,52.15495,6.19937,['IEC62196Type2CCS'],
+339,InCharge Lelystad Larserplein,52.48222,5.50475,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010042941
+340,E-Flux Dronten Koornmarktpoort,52.55049,5.69467,['IEC62196Type2CCS'],528009009105189
+341,Fastned Nagele Rijksweg A6,52.6259,5.66669,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010065035
+342,InCharge Zutphen Hermesweg,52.1492,6.19649,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010069194
+343,InCharge Arnhem Ringoven,51.97568,5.95986,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010043364
+344,Fastned Nijmegen Sint Jacobslaan,51.82037,5.85223,"['IEC62196Type2CCS', 'Chademo']",
+345,Tesla Zwolle Nieuwleusenerdijk,52.53196,6.15695,"['IEC62196Type2CCS', 'Tesla']",
+346,Porsche Deventer Birnieweg,52.234,6.20023,['IEC62196Type2CCS'],
+347,ChargePoint Gorssel Hoofdstraat,52.19783,6.19958,"['IEC62196Type2CCS', 'Chademo']",528009009102754
+348,TotalEnergies Leusden Randweg,52.14314,5.41838,"['Chademo', 'IEC62196Type2CCS']",
+349,Shell Recharge Nijmegen Grootstalselaan,51.80844,5.83858,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010103720
+350,Shell Recharge Hoogland E231,52.21225,5.34048,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010112796
+351,Fastned Klarenbeek Rijksweg A50,52.17078,6.02581,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009009078980
+352,Allego Amersfoort Kleine Koppel,52.16157,5.37933,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009002417101
+353,Last Mile Solutions Oss Etruskenweg,51.76339,5.55855,['IEC62196Type2Outlet'],528008000030914
+354,Arnhem De Overmaat,51.95233,5.88509,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",
+355,Allego Apeldoorn Lange Amerikaweg,52.17889,5.98478,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009076316
+356,E-Flux Tiel De Prinsenhof,51.90981,5.453,"['IEC62196Type2CCS', 'Chademo']",
+357,Shell Recharge Lelystad Larserdreef,52.48666,5.49269,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010104611
+358,Tiel Marconistraat,51.90818,5.42678,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+359,Shell Recharge Arnhem Westervoortsedijk,51.97096,5.94703,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010105866
+360,Allego Terschuur Zelderseweg,52.16839,5.56448,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009071999
+361,IONITY Stroe Rijksweg A1,52.18422,5.67044,['IEC62196Type2CCS'],528009009094646
+362,Shell Recharge Apeldoorn Laan van de Mensenrechten,52.20827,5.97505,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112305
+363,Fastned Ede Buunderkamp,52.02086,5.75483,"['IEC62196Type2CCS', 'Chademo']",528009010068278
+364,Zeewolde Pioniersweg,52.3299,5.54031,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009010065870
+365,Apeldoorn Oude Apeldoornseweg,52.17955,5.97042,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+366,Fastned Arnhem Slenkweg,52.00745,5.81232,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009077643
+367,PARKnCHARGE Lelystad Larserplein,52.48277,5.50585,['IEC62196Type2CCS'],
+368,E-Flux Doetinchem Braamtseweg,51.94625,6.2836,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010065711
+369,Fastned Ede Rijksweg A30,52.06378,5.61204,"['IEC62196Type2CCS', 'Chademo', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS']",528009009076446
+370,Fastned Hoogland Rijksweg 1,52.21129,5.34196,"['IEC62196Type2CCS', 'Chademo']",528009010111867
+371,Tesla Emmeloord Het Hooiveld,52.72741,5.76461,"['Tesla', 'IEC62196Type2CCS']",
+372,Fastned Wezep Rijksweg A28,52.45162,5.97791,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010105558
+373,TotalEnergies Leusden Randweg,52.14319,5.41804,"['Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+374,Allego Amersfoort Maanlander,52.19509,5.3894,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528008000014308
+375,IONITY Opheusden Rijksweg A15,51.92164,5.60374,['IEC62196Type2CCS'],528009009078229
+376,InCharge Oosterhout Rietgraaf,51.89251,5.83061,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010071121
+377,InCharge Nijmegen Wijchenseweg,51.82523,5.80348,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010042671
+378,Fastned Opheusden Rijksweg A15,51.9216,5.60331,"['Chademo', 'IEC62196Type2CCS']",528009009087991
+379,Shell Recharge Apeldoorn Kanaal Noord,52.23666,5.97678,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010104007
+380,InCharge Joure Sewei,52.95864,5.81215,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010042398
+381,InCharge Drachten Omloop,53.10851,6.0819,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010110607
+382,Fastned Darp Rijksweg A32,52.75097,6.18994,"['IEC62196Type2CCS', 'Chademo']",528009010110733
+383,InCharge Sneek Wolkammersstraat,53.03518,5.62212,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010110009
+384,IONITY Nuis Rijksweg A7,53.16163,6.29264,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009009090803
+385,OG Leeuwarden Morseweg,53.18701,5.75473,"['IEC62196Type2CCS', 'Chademo']",
+386,Fastned Oldeholtwolde Rijksweg A32,52.9156,5.98238,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009009076261
+387,InCharge Drachten-Azeven Bohrlaan,53.09598,6.1356,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010070785
+388,OG Heerenveen Pluto,52.97633,5.93784,"['IEC62196Type2CCS', 'Chademo']",
+389,Fastned Menaam De Mieden,53.20374,5.68262,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009095896
+390,Allego Zurich Viaduct,53.09902,5.38409,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009081785
+391,Fastned Wolsum Laerd en Saerd,53.05138,5.55393,"['IEC62196Type2CCS', 'Chademo']",528009010104402
+392,Fastned Rutten Rijksweg A6,52.81845,5.74229,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110346
+393,Fastned Nuis Rijksweg A7,53.16155,6.29359,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010104494
+394,InCharge Heerenveen Stadionweg,52.96546,5.93176,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010041467
+395,E-Flux Steenwijk Steenakkers,52.78047,6.15898,"['IEC62196Type2CCS', 'Chademo']",528009010064394
+396,Fastned Terwispel De Vonken,53.03244,6.02103,"['IEC62196Type2CCS', 'Chademo']",528009010106879
+397,Allego Drachten Lavendelheide,53.10591,6.12887,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010107877
+398,Tesla Drachten Lavendelheide,53.10553,6.12798,"['IEC62196Type2CCS', 'Tesla']",
+399,Shell Recharge Leeuwarden Wismastate,53.21159,5.83398,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010112024
+400,Allego Heerenveen Abe Lenstra Boulevard,52.9581,5.93477,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009107766
+401,Heerenveen Industrieweg,52.93179,5.95325,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS']",528009010104383
+402,Fastned Wirdum Mandelân,53.12953,5.80482,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010112612
+403,Drachten Ampèrelaan,53.1089,6.13376,"['IEC62196Type2Outlet', 'IEC62196Type2CCS']",528009010068941
+404,E-Flux Heerenveen Pluto,52.97668,5.93746,"['IEC62196Type2CCS', 'Chademo']",528009010066731
+405,InCharge Goutum Brédyk,53.17955,5.79687,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010043772
+406,Fastned Bant Rijksweg A6,52.78442,5.75931,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010106949
+407,Shell Recharge Leeuwarden François HaverSchmidtwei,53.20501,5.76596,"['IEC62196Type2Outlet', 'Chademo']",528009010106197
+408,Fastned Terwispel De Wâlden,53.02914,6.02062,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010105549
+409,Fastned Nijeveen Bovenboer,52.75287,6.18648,"['IEC62196Type2CCS', 'Chademo']",528009010111774
+410,Shell Recharge Holten Rijksweg A1,52.25547,6.43775,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110738
+411,InCharge Enschede Spaansland,52.20594,6.89175,"['Chademo', 'IEC62196Type2Outlet']",528009010043411
+412,PARKnCHARGE Denekamp Nordhornsestraat,52.38592,7.01736,"['IEC62196Type2CCS', 'Chademo']",
+413,PARKnCHARGE Haaksbergen Textielstraat,52.17339,6.74253,['IEC62196Type2CCS'],
+414,Fastned Veeningen Rijksweg A28,52.6792,6.35893,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009084629
+415,Fastned Deurningen Rijksweg A1,52.28147,6.8529,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528008000015587
+416,Enter Eversdijk,52.31028,6.56878,['IEC62196Type2CCS'],
+417,InCharge Holten Rijksweg A1,52.25389,6.43624,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010048498
+418,E-Flux Enschede Strootsweg,52.21877,6.8359,"['IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010064111
+419,Fastned Deurningen Rijksweg A1,52.28701,6.861,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo']",528009010070331
+420,AVIA Enschede Twekkeler Es,52.2231,6.83771,"['IEC62196Type2CCS', 'IEC62196Type2CCS']",528009010071434
+421,E-Flux Groenlo Noordgang,52.06131,6.62504,"['IEC62196Type2Outlet', 'IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+422,AVIA Enter De Bleek,52.29348,6.55792,['IEC62196Type2CCS'],528009010067525
+423,Tesla Nieuw-Amsterdam Verlengde Herendijk,52.72417,6.88352,['IEC62196Type2CCS'],
+424,Hengelo Diamantstraat,52.24041,6.77914,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+425,Hengelo Höltersweg,52.27864,6.77896,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+426,E-Flux Enschede Euregioweg,52.22556,6.94636,"['IEC62196Type2Outlet', 'Chademo']",528009010045230
+427,AVIA Deurningen Deurningerstraat,52.29847,6.83118,['IEC62196Type2CCS'],528009010073398
+428,Fastned Veeningen Rijksweg A28,52.68273,6.36906,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009009095955
+429,Allego Hengelo Bornsestraat,52.28697,6.77464,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",
+430,Shell Recharge Enschede Broekheurne-ring,52.19963,6.86387,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010106001
+431,E-Flux Enschede Staalsteden,52.21465,6.81715,"['IEC62196Type2Outlet', 'Chademo']",528009010041202
+432,Tesla Hengelo,52.2872,6.77311,['IEC62196Type2CCS'],
+433,Tamoil Klazienaveen Antares,52.73133,6.97976,"['IEC62196Type2CCS', 'Chademo']",
+434,OG Borne Vormerij,52.28677,6.74453,"['IEC62196Type2CCS', 'Chademo']",
+435,InCharge Hardenberg Stelling,52.57499,6.59675,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010045782
+436,E-Flux Borne Vormerij,52.28563,6.74795,"['IEC62196Type2CCS', 'Chademo']",
+437,PARKnCHARGE Henxel Kobstederweg,51.98662,6.74294,['IEC62196Type2CCS'],528009010050882
+438,TotalEnergies Dedemsvaart Langewijk,52.60658,6.46415,"['Chademo', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS']",528009009084992
+439,InCharge Almelo Laan van Iserlohn,52.35048,6.67696,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010040936
+440,PARKnCHARGE Almelo Henriëtte Roland Holstlaan,52.3324,6.65425,"['IEC62196Type2CCS', 'Chademo']",
+441,Allego Holten Langstraat,52.25481,6.43511,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010069669
+442,PARKnCHARGE Lochem Hanzeweg,52.1649,6.41549,"['IEC62196Type2CCS', 'Chademo']",
+443,InCharge Groningen Atoomweg,53.21343,6.54053,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010042234
+444,Groningen Rostockweg,53.22238,6.61106,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+445,Fastned Haren Rijksweg,53.14795,6.60462,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo', 'Chademo', 'IEC62196Type2CCS', 'Chademo']",528009009087047
+446,Delfzijl De Vennen,53.3328,6.92937,['IEC62196Type2CCS'],
+447,Stadskanaal Kathodeweg,52.97663,6.96054,"['IEC62196Type2Outlet', 'Chademo', 'IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",
+448,Allego Eelderwolde Borchsingel,53.19669,6.5162,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010066958
+449,Eneco Groningen Kieler Bocht,53.21589,6.60892,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS']",528009010108298
+450,PARKnCHARGE Nieuw-Weerdinge Hogesloot,52.82291,6.97097,['IEC62196Type2CCS'],
+451,Tesla Assen Balkenweg,52.9929,6.52447,"['IEC62196Type2CCS', 'Tesla', 'IEC62196Type2CCS']",
+452,Fastned Beilen Rijksweg A28,52.84532,6.48638,"['IEC62196Type2CCS', 'Chademo']",528009010105730
+453,EVBox Ten Boer Bedrijvenweg,53.28127,6.7083,"['IEC62196Type2Outlet', 'IEC62196Type2CCS', 'IEC62196Type2CableAttached']",
+454,Shell Recharge Groningen Zonnelaan,53.23526,6.53957,"['IEC62196Type2CCS', 'IEC62196Type2CCS', 'Chademo']",528009010110398
+455,InCharge Emmen Hoenderkamp,52.77205,6.89744,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2Outlet']",528009010040726
+456,Fastned Niebert Rijksweg A7,53.16739,6.3115,"['IEC62196Type2CCS', 'Chademo']",528009010108909
+457,Fastned Scheemda Rijksweg A7,53.18086,6.93373,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010112627
+458,Shell Recharge Groningen Van Ketwich Verschuurlaan,53.19273,6.56679,"['IEC62196Type2CCS', 'Chademo']",528009010107180
+459,Allego Groningen Professor Uilkensweg,53.23681,6.51964,"['IEC62196Type2Outlet', 'IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009009078999
+460,InCharge Eelderwolde,53.19573,6.51748,"['IEC62196Type2CCS', 'IEC62196Type2CableAttached', 'Chademo']",528009010042143
+461,Fastned Scheemda Rijksweg A7,53.18261,6.93143,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010108225
+462,Shell Recharge Haren Rijksweg,53.14895,6.60433,"['IEC62196Type2CCS', 'Chademo', 'IEC62196Type2CCS']",528009010110974
+463,InCharge Assen Hof van Parijs,53.02602,6.57212,"['IEC62196Type2CableAttached', 'IEC62196Type2CCS', 'Chademo']",528009010040552
+464,PARKnCHARGE Eemshaven Borkumkade,53.45667,6.83216,"['IEC62196Type2Outlet', 'IEC62196Type2Outlet', 'IEC62196Type2CCS']",
+465,OG Groningen Bornholmstraat,53.20429,6.61217,"['IEC62196Type2CCS', 'Chademo']",
