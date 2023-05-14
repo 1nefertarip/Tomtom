@@ -7,7 +7,7 @@ df = pd.read_csv('CP_Tomtom_NL.csv', dtype={'chargingAvailability': str})
 #df
 
 # TomTom API credentials
-api_key = 'p5X14dbF2IvWAQH0et3031eV2nDN7wTn'
+api_key = 'API_KEY'
 
 def json_to_df(json_data):
     connectors = json_data['connectors']
